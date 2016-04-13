@@ -10,6 +10,7 @@ npm-debug.log
 # Fabric files
 *.sublime-workspace
 docs.css
+dist
 
 # Docs files
 docs/app
@@ -53,3 +54,4 @@ ehthumbs.db
 *.msi
 *.msm
 *.msp
+.vscode/
